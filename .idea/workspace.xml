@@ -43,8 +43,8 @@
       <file leaf-file-name="TemplateWebApplicationTests.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../spring-boot-template/template-web/src/test/java/com/lyl/web/TemplateWebApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+            <state relative-caret-position="88">
+              <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
               <folding>
                 <element signature="e#1052#1058#0" expanded="true" />
               </folding>
@@ -53,6 +53,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../spring-boot-template" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -94,15 +97,32 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-template" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-template" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="629" />
-    <option name="y" value="69" />
+    <option name="x" value="592" />
+    <option name="y" value="91" />
     <option name="width" value="1365" />
     <option name="height" value="980" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -389,7 +409,7 @@
       <workItem from="1539085631110" duration="1582000" />
       <workItem from="1539184343554" duration="1611000" />
       <workItem from="1539188097803" duration="365000" />
-      <workItem from="1539270547550" duration="515000" />
+      <workItem from="1539270547550" duration="898000" />
     </task>
     <servers />
   </component>
@@ -400,17 +420,22 @@
     <history-entry file="TemplateWebApplicationTests_contextLoads - 2018.10.11 at 23h 17m 16s.xml">
       <configuration name="TemplateWebApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TemplateWebApplicationTests_contextLoads - 2018.10.11 at 23h 20m 09s.xml">
+      <configuration name="TemplateWebApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TemplateWebApplicationTests_contextLoads - 2018.10.11 at 23h 21m 00s.xml">
+      <configuration name="TemplateWebApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4073000" />
+    <option name="totallyTimeSpent" value="4456000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="618" y="42" width="1365" height="980" extended-state="0" />
-    <editor active="true" />
+    <frame x="479" y="74" width="1365" height="980" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.32950193" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -418,15 +443,15 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.43160376" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43160376" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293979" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="CheckStyle" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -565,8 +590,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../spring-boot-template/template-web/src/test/java/com/lyl/web/TemplateWebApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        <state relative-caret-position="88">
+          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
           <folding>
             <element signature="e#1052#1058#0" expanded="true" />
           </folding>
